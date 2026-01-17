@@ -77,8 +77,7 @@ JavaScript (ES6): lógica de carrito, renderizado dinámico de productos, persis
 🌐 Enlace a la demostración
 
 👉 Despliega el proyecto en GitHub Pages:
-https://tu-usuario.github.io/tienda.onlline.anime/
-
+https://benja-menis.github.io/tienda.online.anime/
 📌 Nota final
 
 Este proyecto forma parte de un portfolio profesional y fue desarrollado como plantilla escalable de tienda online frontend, ideal para demostraciones, proyectos educativos o como base para un e-commerce completo.
